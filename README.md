@@ -1,6 +1,4 @@
-# assingment-4
-
-# Sales Data Input Validation
+# Exercise 1
 ## Overview
 This project contains a Python program for Exercise 1 of the DATA 4000 Python with AI assignment. The program simulates entering sales data for a retail business by asking the user for the number of units sold and the price per unit. It validates the input, reprompts the user when invalid values are entered, and then calculates the total revenue.
 ## Purpose
